@@ -1,0 +1,14 @@
+header{
+width: 150px;
+height: 150px;
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+align-items: center;
+justify-content: space-around;
+background-color: black;
+}
+header img{
+    height: 100%;
+
+}
